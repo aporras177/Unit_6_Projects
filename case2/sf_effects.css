@@ -6,19 +6,23 @@
    Case Problem 2
    
    Save your Fork Graphic Design Styles
-   Author: 
-   Date:   
+   Author: Ariahnnah Porras
+   Date:   10/09/19
 
    Filename: sf_effects.css
 
 */
 
 /* Body Header Styles */
-
+body{
+   
+}
 
 
 /* Navigation Tabs List Styles */
-
+body > header nav.tabs{
+   background-image: url(sf_back1.png);
+}
 
 
 
