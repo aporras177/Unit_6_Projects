@@ -18,9 +18,8 @@ html{
    background-attachment: fixed;
    background-size: 100% 100%;
    background-position: auto auto;
-
 }
-
+/* In this section, I added the background image and the sizes of the picture/*
 
 /* Body Styles */
 body{
@@ -32,7 +31,7 @@ body header{
    background-color: rgba(51, 51, 51, 0.5);
 }
 
-
+/* In this section, I added the body and body header and the background color of it./*
 /* Aside Styles */
 section aside{
    border-style: double;
@@ -51,7 +50,7 @@ section#left, section#right{
 }
 
 
-
+/* In this section, I added the section asides, which then rotated the images./*
 
 /* Cube Styles */
 div#cube{
@@ -81,3 +80,4 @@ div#cube_right{
 div#cube_bottom{
    transform: translateX(-200px) rotateX(90deg);
 }
+/* In this section, I added the div cubes which rotated the pictures, transformed, and the sizes./*

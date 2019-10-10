@@ -18,7 +18,7 @@ body{
    -webkit-filter:drop-shadow(10px 10px 50px  rgb(51, 51, 51));
    filter:drop-shadow(10px 10px 50px  rgb(51, 51, 51));
 }
-
+/* In this section, I added the body picture and the drop shadow filters/*
 /* Navigation Tabs List Styles */
 body > header nav.tabs{
    background: url(sf_back1.png);
@@ -33,7 +33,7 @@ body > header nav.tabs li:hover{
    background-color: rgb(231, 231, 231);
 }
 
-
+/* In this section, I added the body header nav which transformed the pictures and the sizes./*
 
 
 /* Left Section Styles */
@@ -45,7 +45,7 @@ section#left nav.vertical h1{
    border-top-left-radius: 25px;
    border-top-right-radius: 25px;
 }
-
+/* In this section, I added the left nav and did the border top left and right px./*
 /* Center Article Styles */
 section#center article{
    background: radial-gradient(white 30%, rgb(151, 151, 151));
@@ -54,7 +54,7 @@ section#center article{
    box-shadow: rgb(51, 51, 51) 10px 10px 20px;
 }
 
-
+/* In this section, I added the center article background and border radius px./*
 
 /* Blockquote Styles */
 blockquote{
@@ -67,4 +67,4 @@ blockquote{
 cite img{
    border-radius: 50%;
 }
-
+/* In this section, I added the blockquote background image and the sizes./*
